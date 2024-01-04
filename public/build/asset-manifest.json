@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb6f8754.css",
+    "main.js": "/static/js/main.810e960d.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/slider2.jpg": "/static/media/slider2.46909edf8fd7e435f2fe.jpg",
+    "static/media/storecover.jpg": "/static/media/storecover.63f8e757e8083578cd02.jpg",
+    "static/media/costume.png": "/static/media/costume.809288fb4fca89197ceb.png",
+    "static/media/slider1.jpg": "/static/media/slider1.e6d6d62e2c808fd898fc.jpg",
+    "static/media/storedummy.jpg": "/static/media/storedummy.076ec998f53557282c8d.jpg",
+    "static/media/slider6.jpg": "/static/media/slider6.5f82929cebe62ba27593.jpg",
+    "static/media/slider4.jpg": "/static/media/slider4.7a14e2f0039c22cb3438.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.13fb8a707f9fc730f799.jpg",
+    "static/media/kidswear.png": "/static/media/kidswear.0f739d0b96eeea523209.png",
+    "static/media/womenswear.png": "/static/media/womenswear.b577c3f1a68be2c75def.png",
+    "static/media/headerOffer.png": "/static/media/headerOffer.fee3ddfadfa51aa9cfbb.png",
+    "static/media/menswear.png": "/static/media/menswear.d93951365cc0d7eb65ce.png",
+    "static/media/slider7.jpg": "/static/media/slider7.68bfc5486bee480f059b.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.4bedc537dcbe771e7b6c.png",
+    "static/media/furniture.jpg": "/static/media/furniture.f9288af74af3c5b3d0a9.jpg",
+    "static/media/support.png": "/static/media/support.e842e96da93840e2f278.png",
+    "static/media/logo2.png": "/static/media/logo2.eb0a21a07618a9df17d7.png",
+    "index.html": "/index.html",
+    "main.fb6f8754.css.map": "/static/css/main.fb6f8754.css.map",
+    "main.810e960d.js.map": "/static/js/main.810e960d.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb6f8754.css",
+    "static/js/main.810e960d.js"
+  ]
+}
